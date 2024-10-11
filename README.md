@@ -1,4 +1,4 @@
 <div>
-<a href="https://www.codewars.com/users/LeeAllen10" target="_blank" class="button">Visit</a>
+<a href="https://www.codewars.com/users/LeeAllen10" class="button">Visit</a>
 </div>
   
