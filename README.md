@@ -1,4 +1,4 @@
 <div>
-<a href="https://www.codewars.com/users/LeeAllen10" alt="code wars"><h1>Visti here</h1></a>
+<li><a href="https://github.com/LeeAllenK/My-Notebook" target="_blank" class="button">Visit</a></li>
 </div>
   
