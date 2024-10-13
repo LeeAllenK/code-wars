@@ -8,12 +8,12 @@
 <div id="header" >
  <h1 class="heading-element" dir="auto">How It's Made:</h1>
  Tech used: JavaScript <br/><br/>
-Beiing consistent and completing Codewars has helped with refactoring my codes.
+Being consistent and completing Codewars has helped with refactoring my codes.
 </div>
 
 <div id="header" >
  <h1 class="heading-element" dir="auto">Optimizations:</h1>
-  I start my day with a Codewar.
+  I start my day with a Codewar I'm only top 17% but that'll change.
 </div>
 
 <div id="header">
