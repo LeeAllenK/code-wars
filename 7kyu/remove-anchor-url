@@ -1,0 +1,20 @@
+/*Instructions
+Complete the function/method so that it returns the url with anything after the anchor (#) removed.
+
+Examples
+"www.codewars.com#about" --> "www.codewars.com"
+"www.codewars.com?page=1" -->"www.codewars.com?page=1"
+ */
+
+//Solution
+function removeUrlAnchor(url) {
+	// TODO: complete
+	const anchor = /#/
+	u = url
+	for(let i = 0; i < u.length; i++) {
+		if(anchor.test(u[i])) {
+			u = u.slice(0, i)
+		}
+	}
+	return u
+}
