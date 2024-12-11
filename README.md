@@ -1,7 +1,7 @@
 <div id="header" >
  <h1  class="heading-element" dir="auto">Codewars: <a href="https://www.codewars.com/users/fladev850" alt="Codewars">Vist Here</a></h1>
 
- <img src="https://i.imgur.com/BhJHts6.gif" alt="Code Wars">
+ <img src="https://i.imgur.com/dZm3FBr.gif" alt="Code Wars">
 
 </div>
 
@@ -13,7 +13,7 @@ Being consistent and completing Codewars has helped with refactoring my codes.
 
 <div id="header" >
  <h1 class="heading-element" dir="auto">Optimizations:</h1>
-  I start my day with a Codewar I'm only top 17% but that'll change.
+  I start my day with a Codewar I'm only top 7% but that'll change.
 </div>
 
 <div id="header">
