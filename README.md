@@ -13,7 +13,7 @@ Being consistent and completing Codewars has helped with refactoring my codes.
 
 <div id="header" >
  <h1 class="heading-element" dir="auto">Optimizations:</h1>
-  I start my day with a Codewar I'm only top 7% but that'll change.
+  Currently I'm in the top 6% but that'll change.
 </div>
 
 <div id="header">
